@@ -8,3 +8,5 @@ package-lock.json
 
 # production
 /build
+
+.vercel
